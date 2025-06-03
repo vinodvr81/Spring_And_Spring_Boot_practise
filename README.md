@@ -1,6 +1,7 @@
 # Spring_And_Spring_Boot_practise
 
-Self Practice of Spring and Spring boot
+Self Practice of Spring Fraework
+
 
 Command below
 
